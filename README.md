@@ -28,3 +28,10 @@
 - Можливість змінювати фон (розмиття або віртуальний фон)
 - Додавання функції віртуальної дошки для спільної роботи.
 - Автоматичні субтитри, шумопоглинання, аналізатор зустрічей (типу як в loom).
+
+# Завдання 2
+## Комміти що виконують це завдання:
+- https://github.com/rooms-soft/app-fe/commit/12e3620eff47666e2b1ee2c64f8cdb72b23d46e8, 
+https://github.com/rooms-soft/app-fe/commit/468f3a076dfbd4d3eec089f90f8d06bb25e41f60
+- https://github.com/rooms-soft/app-be/commit/d670f141aa674979e84a3b4708e298e60b3d37da,
+https://github.com/rooms-soft/app-be/commit/c43fcf68eb50d327212e0ccf7456b957a5f68cb8
