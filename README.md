@@ -58,7 +58,7 @@ https://github.com/rooms-soft/app-be/commit/c43fcf68eb50d327212e0ccf7456b957a5f6
 # Завдання 5
 ## Комміти що виконують це завдання:
 - https://github.com/rooms-soft/app-be/commit/117e505e6cde65b679407dd96554f43f2cedb7df
-- 
+- https://github.com/rooms-soft/app-fe/commit/84a6272fa3055b06da00ba0618b0f79a60528fe9
 
 # Завдання 8
 ![img.png](img/load-test-report.png)
