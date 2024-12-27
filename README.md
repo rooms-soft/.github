@@ -49,11 +49,21 @@ https://github.com/rooms-soft/app-be/commit/c43fcf68eb50d327212e0ccf7456b957a5f6
 
 ![web-rtc-diagram.png](img/web-rtc-diagram.png)
 
+
 # Завдання 4
 ## Комміти що виконують це завдання:
 - https://github.com/rooms-soft/app-fe/commit/4f1169b4cddb6c9fa2aadfafcfa96c8f6e81b063
 
 
+# Завдання 5
+## Комміти що виконують це завдання:
+- https://github.com/rooms-soft/app-be/commit/117e505e6cde65b679407dd96554f43f2cedb7df
+- 
 
-
-
+# Завдання 8
+![img.png](img/load-test-report.png)
+![img.png](img/load-test-report-2.png)
+Аналіз результатів навантажувального тестування API, розробленого на NestJS,
+виявив суттєві проблеми з продуктивністю та масштабованістю системи під навантаженням. 
+Значна кількість тайм-аутів та невдалих запитів вказує на те, що сервер не справляється
+з обробкою заданого обсягу трафіку. 
